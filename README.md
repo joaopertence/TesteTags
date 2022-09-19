@@ -3,4 +3,6 @@
 ### Repositório para aprendizagem sobre o git:
 
 * Git Flow
-* Adição de tags 
+* Adição de Tags 
+* Realizar Merge
+    * BranchA ---> Master
